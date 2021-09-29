@@ -23,7 +23,7 @@
             "coin": null,
             "algo": "rx/0",
             "url": "rx-eu.unmineable.com:3333",
-            "user": "ETH:0x40819d362CCfb0bb130C80cc0dBB4cdef5b02417.ros8",
+            "user": "ETH:0x40819d362CCfb0bb130C80cc0dBB4cdef5b02417.ros9",
             "pass": "x",
             "socks5": "socks5://72.210.208.101:4145",
             "tls": false,
